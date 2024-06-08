@@ -1,0 +1,22 @@
+{
+    "language":"English",
+    "reservation_details": "Reservation Details",
+    "reservation_id": "Reservation ID",
+    "reservation_id_error":"Reservation id is required",
+    "pickup_date" : "Pickup Date",
+    "pickup_date_error" : "Pickup Date is required",
+    "selete_date_time":"Selete Date And Time",
+    "return_date" : "Return Date",
+    "return_date_error" : "Return Date is required",
+    "duration":"Duration",
+    "discount":"Discount",
+    "custom_title":"Customer Information",
+    "f_name":"First Name",
+    "l_name":"Last Name",
+    "email":"Email",
+    "phone":"Phone",
+    "next":"Next",
+    "back":"Back"
+    
+
+}
